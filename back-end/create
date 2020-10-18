@@ -1,0 +1,4 @@
+yarn run v1.22.5
+$ ts-node-dev ./node_modules/typeorm/cli.js migration -n create_images
+ts-node-dev ver. 1.0.0-pre.63 (using ts-node ver. 8.10.2, typescript ver. 4.0.3)
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
